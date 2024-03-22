@@ -123,17 +123,17 @@ const Projects = ({ openModal, setOpenModal }) => {
           </ToggleButton>
           <Divider />
           <ToggleButton
-            active={toggle === "android app"}
-            onClick={() => setToggle("android app")}
+            active={toggle === "Air Purge Control"}
+            onClick={() => setToggle("Air Purge Control")}
           >
-            ANDROID APP'S
+            Air Purge Control
           </ToggleButton>
           <Divider />
           <ToggleButton
-            active={toggle === "machine learning"}
-            onClick={() => setToggle("machine learning")}
+            active={toggle === "Aircraft ILS"}
+            onClick={() => setToggle("Aircraft ILS")}
           >
-            MACHINE LEARNING
+            Aircraft ILS
           </ToggleButton>
         </ToggleButtonGroup>
         <CardContainer>
