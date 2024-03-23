@@ -202,8 +202,7 @@ export const projects = [
     date: "Oct 2022 - Jan 2023",
     description:
       "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+    image: "https://online.pubhtml5.com/hcsr/ygfn/files/large/1.jpg",
     tags: [
       "React Js",
       "MongoDb",
@@ -220,8 +219,7 @@ export const projects = [
     date: "Jan 2023 - Mar 2023",
     description:
       "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+    image: "https://online.pubhtml5.com/hcsr/ygfn/files/large/1.jpg",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "Air Purge Control",
   },
