@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/bozung",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://github.com/bozung/portfolio_phats/blob/main/src/images/resumephats.png?raw=true",
   linkedin: "https://www.linkedin.com/in/phatphonnicha/",
   WhatsApp: "https://wa.me/66898881179",
   insta: "https://www.instagram.com/dialy___lydia/",
