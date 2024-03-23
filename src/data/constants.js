@@ -192,35 +192,36 @@ export const projects = [
     description:
       "Developed a full-stack web application that allows users to search for, Test, and practice their Toeic exam. Implemented user authentication using Google Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+      "https://github.com/bozung/portfolio_phats/blob/main/src/images/990.png?raw=true",
+    tags: ["React Js", "Html", "CSS ", " PHP", "firebase"],
     category: "web app",
   },
   {
     id: 1,
-    title: "Vexa",
-    date: "Oct 2022 - Jan 2023",
+    title: "instrument landing system",
+    date: "Oct 2020 - Jan 2021",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "It is a simulation of a plane called a marker beacon. It uses a model plane with the sound of the frequency of the landing distance on the runway. How far is the aircraft parked before the runway to be the safest for pilots and passengers to land. It uses a model plane instead of moving into the runway and has an audio frequency circuit that uses moss code to represent the sound frequency. And there is a light next to the box to indicate three different levels of the marker beacon in each color. And there will be status indicator on the box as well. The use of this marker beacon model is that only a switch is a pushbutton of the operation, and the marker beacon model runs by itself. And it is consistent with the purpose of making the learner more aware of the structure and function of the marker beacon, as well as the operation of the aircraft navigation system.",
     image: "https://online.pubhtml5.com/hcsr/ygfn/files/large/1.jpg",
     tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
+      "Arduino",
+      "IR Infrared photoelectric Sensor",
+      "Module ISD1820 and spekker",
+      "Motor 12 volt & Volume 1K",
+      "Motor Pulley",
+      "LED",
     ],
     category: "Aircraft ILS",
   },
   {
     id: 2,
-    title: "Brain Tumor Detection",
-    date: "Jan 2023 - Mar 2023",
+    title: "Air Purge Control",
+    date: "Jan 2021 - Mar 2021",
     description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-    image: "https://online.pubhtml5.com/hcsr/ygfn/files/large/1.jpg",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+      "PLC and HMI-based air purge control system development, testing, and commissioning. Demonstrates unwavering dedication to ensuring top-tier quality assurance, consistently delivering solutions that elevate performance and safety standards while meticulously testing and commissioning to ensure usability",
+    image:
+      "https://github.com/bozung/portfolio_phats/blob/main/src/images/Air%20Purge%20HMIPLC.png?raw=true",
+    tags: ["PHMI/PLC", "YKBuilder YKBuilder", "Mitsubishi GX Works2"],
     category: "Air Purge Control",
   },
 ];
